@@ -1,6 +1,6 @@
 # BaseloginFlask
-空的带登录的flask项目
-下载下来，直接运行pip install -r request.txt就可以安装好所需要的环境
+空的带登录的flask项目<br>
+下载下来，直接运行pip install -r request.txt就可以安装好所需要的环境<br>
 并且创建了名为“test_one”的数据库
 ps：前提是你已经安装好了mysql
 然后在项目路径：python manage.py shell进入shell环境
